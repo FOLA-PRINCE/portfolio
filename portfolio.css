@@ -1,0 +1,139 @@
+body {
+    display: grid inline;
+    margin: 0%;
+    padding: 0%;
+    justify-content: center;
+    background-image: linear-gradient(rgba(200, 255, 255, 0.7), rgba(200, 200, 255, 0.7)), url("./asset/clear-5.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    
+}
+
+
+
+nav {
+  
+    display: flex;
+    justify-content: space-between;
+    background-color: tomato;
+    width: 100%;
+    height: 20vh;
+    align-items: center;
+}
+
+
+img {
+
+    margin: 50px;
+    width: 70px;
+    border-radius: 20px;
+}
+
+
+
+h1 {
+
+    display: flex;
+    justify-content: center;
+     
+}
+
+#company {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkolivegreen;
+    font-weight: 200;
+}
+
+.name {
+    color: darkblue;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+sup {
+    margin-right: 10px;
+}
+
+ul {
+
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    margin-right: 30px;
+    
+    
+}
+
+li a {
+    padding: 15px;
+    text-decoration: none;
+    color: #ffffff;
+    
+}
+
+
+
+
+
+#welcome {
+
+    display: grid;
+    grid-template-rows: 50px;
+    justify-content: center;    
+    
+}
+.about {
+
+    display: flex;
+    font-size: 22px;
+    margin: 15px;
+}
+
+.portfolio {
+
+    display: flex;
+    justify-content: center;
+   
+       
+}
+
+button {
+
+    background-color: darkorange;
+    color: #ffffff;
+    height: 50px;
+    border: none;
+}
+
+
+.skills {
+
+    margin: 15px;
+}
+
+#contact {
+
+    margin: 15px;
+}
+
+
+.footer {
+
+    display: flex;
+    flex-wrap: wrap;
+    background-color: darkgoldenrod;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+    height: 150px;
+    margin-top: 100px;
+    margin-left: 10px;
+    
+}
+
+.foot {
+
+    width: 50px;
+    height: 50px;
+}
