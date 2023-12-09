@@ -1,0 +1,196 @@
+body {
+
+    background-color: rgb(219, 110, 70);
+    display: flex;
+    padding: 30px 45px;
+   
+    
+}
+
+main {
+
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    
+}
+
+.d1 {
+
+    display: grid;
+    width: 300px;
+    height: 450px;
+    background-color: rgb(214, 225, 225);
+    border: 2px solid red;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+
+.price1 {
+
+    color: white;
+    background-color: black;
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-top: -15px;
+    margin-left: -15px;
+}
+
+.image1 {
+
+    margin-top: 20px;
+}
+
+.star1 {
+
+    display: flex;
+    width: 140px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 70px;
+}
+
+#b2 {
+
+    height: 60px;
+    width: 150px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 140px;
+    font-size: 16px;
+    padding: 20px 40px;
+    color: white;
+}
+
+
+.d2 {
+    
+    display: grid;
+    width: 300px;
+    height: 600px;
+    background-color: rgb(214, 225, 225);
+    border: 2px solid red;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.price2 {
+
+    color: white;
+    background-color: black;
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-top: -15px;
+    margin-left: -15px;
+}
+
+#image2 {
+
+    margin-top: 20px;
+}
+
+#dh2 {
+
+    margin-top: 50px;
+    padding: 20px;
+    font-size: 32px;
+}
+
+
+.star2 {
+
+    display: flex;
+    width: 140px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+#b4 {
+
+    height: 60px;
+    width: 150px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 140px;
+    font-size: 16px;
+    padding: 20px 40px;
+    color: white;
+}
+
+
+.d3 {
+   
+    display: grid;
+    width: 300px;
+    height: 400px;
+    background-color: rgb(214, 225, 225);
+    border: 2px solid red;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.price3 {
+
+    color: white;
+    background-color: black;
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-top: -15px;
+    margin-left: -15px;
+}
+
+#image3 {
+
+    margin-top: 20px;
+}
+
+.dh3 {
+
+    font-size: 32px;
+    margin-top: 10px;
+}
+
+.star3 {
+
+    display: flex;
+    width: 140px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+    
+.info {
+
+    margin-top: 50px;
+}
+
+.buy {
+
+    display: flex;
+    background-color: rgb(255, 0, 38);
+    border-radius: 10px;
+}
+
+#b6 {
+    
+    height: 60px;
+    width: 150px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 140px;
+    font-size: 16px;
+    padding: 20px 40px;
+    color: white;
+
+} 
